@@ -18,7 +18,7 @@ class SantriCooperativeApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Koperasi Santri',
+      title: 'Pondok Digital',
       theme: ThemeData(
         primarySwatch: Colors.green,
         useMaterial3: true,
